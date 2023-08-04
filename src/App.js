@@ -6,6 +6,7 @@ export default function App() {
   return (
     <div>
       <InputForm />
+    <h1>Hello</h1>
     </div>
   );
 }
