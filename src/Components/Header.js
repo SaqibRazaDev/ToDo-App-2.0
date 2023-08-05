@@ -29,7 +29,7 @@ export default function Header() {
         <div className='col-'>
           <h1>To Do List App</h1>
           <p>
-            Designed & Developed by <span className='fw-bold'>Saqib Raza</span>
+            Designed & Developed by <span className='fw-bold'>Saqib Raza Sial</span>
           </p>
         </div>
       </div>
